@@ -1,0 +1,16 @@
+textarea {
+    font-family: "Consolas", sans-serif;
+    tab-size: 2;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+html, body {
+    margin: 0px;
+}
+
+select:active, select:hover {
+    outline: none
+}
